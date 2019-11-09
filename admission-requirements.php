@@ -20,11 +20,11 @@
             <div class="row">
 
                 <div class="medium-6 small-12 columns">
-                    <img src="images/help/about-hallowed-school.jpg" alt="Education Background" />
+                    <img src="images/help/slide(3).jpg" alt="Education Background" />
                 </div><!-- Left Column /-->
 
                 <div class="medium-6 small-12 columns">
-                    <h2>ENTRY REQUIREMENT INTO <span> Hallowed Ground Model Secondary School!</span></h2>
+                    <h2>ENTRY REQUIREMENT INTO <span>  St Peter Special Secondary School!</span></h2>
                     <p>
                     <ol>
                         <li>
